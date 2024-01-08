@@ -32,17 +32,17 @@
 
 <h3>💻 Software and Tools</h3>
   <p>
-      <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-      <a href="#"><img alt="Google Earth Engine" src="https://img.shields.io/badge/google_earth_engine-blue"></a>
+       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+       <a href="#"><img alt="Google Earth Engine" src="https://img.shields.io/badge/google_earth_engine-blue"></a>
+      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
        <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="R Studio" src="https://img.shields.io/badge/R_Studio-2962FF"></a>
       <a href="#"><img alt="QGIS" src="https://img.shields.io/badge/QGIS-234ea94b"></a>
       <a href="#"><img alt="ArcGIS Pro" src="https://img.shields.io/badge/ArcGIS_Pro-008CC1"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="PG Admin" src="https://img.shields.io/badge/PG_Admin-035a7d"></a>
       <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-ffdd00"></a>
-      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
       <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/google_colab-DD6620"></a>
      
   </p>
