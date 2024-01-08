@@ -49,10 +49,10 @@
   </p>
 
   <h3>🔥 Streak Stats</h3>
-  <p>
+  <div align="center">
         <a href="https://git.io/streak-stats">
             <img src="https://github-readme-streak-stats.herokuapp.com?user=BoineeloMoyo&theme=neon" alt="GitHub Streak" /></a>
-  </p>
+  </div>
 
   <h3>💻 GitHub Profile Stats</h3>  
   
