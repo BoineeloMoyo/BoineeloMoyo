@@ -52,6 +52,7 @@
   <div align="center">
         <a href="https://git.io/streak-stats">
             <img src="https://github-readme-streak-stats.herokuapp.com?user=BoineeloMoyo&theme=neon" alt="GitHub Streak" /></a>
+      [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   </div>
 
   <h3>💻 GitHub Profile Stats</h3>  
