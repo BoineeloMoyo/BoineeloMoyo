@@ -21,7 +21,7 @@
   </a>
 </div>
 
-<h2 align="center">⚒️ Conversant with: ⚒️</h2>
+<h2 align="center">⚒️ Expertise In: ⚒️</h2>
 <h3>👨‍💻 Programming and Markup Languages</h3>
 <br/>
 <div align="center">
