@@ -31,6 +31,7 @@
 <br/>
 
 <h3>💻 Software and Tools</h3>
+
   <p>
        <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
        <a href="#"><img alt="Google Earth Engine" src="https://img.shields.io/badge/google_earth_engine-blue"></a>
