@@ -21,6 +21,7 @@
   </a>
 </div>
 
+
 <h2 align="center">⚒️ Expertise In: ⚒️</h2>
 <h3>👨‍💻 Programming and Markup Languages</h3>
 <br/>
@@ -29,6 +30,7 @@
     <img src="https://skillicons.dev/icons?i=react,html,css,github,git" /> <br>
 </div>
 <br/>
+
 
 <h3>💻 Software and Tools</h3>
 
