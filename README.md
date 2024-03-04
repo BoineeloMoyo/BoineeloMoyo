@@ -3,7 +3,7 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3BA198&random=false&width=435&separator=%3C&lines=Hello+There+%F0%9F%91%8B;++I+am+Boineelo+Moyo" alt="Typing SVG" /></a>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3BA198&random=false&width=435&separator=%3C&lines=Hello+There+%F0%9F%91%8B;++I+am+Boineelo" alt="Typing SVG" /></a>
 </h1>
 
 <h2 align="center">I am a passionate Spatial Data Scientist </h2>
