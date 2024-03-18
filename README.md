@@ -7,7 +7,7 @@
  
 <h2 align="center">I am a passionate Spatial Data Scientist </h2>
 
-<br/>
+<br/> 
 <div align = "center">
  🌱 I’m currently learning **Machine Leaning for Earth Observation, Docker, Data Visualisation**
 </div>
