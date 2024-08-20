@@ -9,7 +9,7 @@
 
 <br/> 
 <div align = "center">
- 🌱 I’m currently learning **Machine Leaning for Earth Observation, Docker, Data Visualisation**
+ 🌱 I’m currently learning **Machine Leaning for Earth Observation, Docker and React** 
 </div>
 
 <div align="center"> 
