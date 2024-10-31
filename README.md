@@ -49,6 +49,8 @@
      <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/google_colab-DD6620"></a>
      <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a> 
       <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black"></a> 
+    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"></a> 
+      
     
   </p>
 
