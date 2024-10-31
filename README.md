@@ -47,7 +47,7 @@
       <a href="#"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-ffdd00"></a>
      <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
      <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/google_colab-DD6620"></a>
-     <a href="#"><img alt="Google Colab" src="[https://img.shields.io/badge/google_colab-DD6620](https://img.shields.io/badge/Anaconda-%2344A833.svg?"></a>    
+     <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?"></a>    
   </p>
 
   <h3>🔥 Streak Stats </h3>
