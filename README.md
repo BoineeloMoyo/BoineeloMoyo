@@ -9,15 +9,15 @@
 
 <br/> 
 <div align = "center">
- 🌱 I’m currently learning **Machine Leaning for Earth Observation, Docker and React**  
+ 🌱 I’m currently learning **Machine Leaning for Earth Observation, Docker and React**   
 </div>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/boineelo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
   </a>
   <a href="https://twitter.com/BoineeloMoyo" target="_blank">
-     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />  
   </a>
 </div>
 
