@@ -31,6 +31,7 @@
 </div>
 <br/>
 
+
 <h3>💻 Software and Tools</h3>
 
   <p>
@@ -68,6 +69,7 @@
 
   
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
