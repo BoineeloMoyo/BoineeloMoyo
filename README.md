@@ -58,7 +58,7 @@
   <h3>🔥 Streak Stats </h3>
   <div align="center">
         <a href="https://git.io/streak-stats">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=BoineeloMoyo&theme=neon" alt="GitHub Streak" /></a></div>
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=BoineeloMoyo&theme=neon" alt="GitHub Streak"></a></div>
 
   <h3>💻 GitHub Profile Stats</h3>
   
