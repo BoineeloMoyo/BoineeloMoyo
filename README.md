@@ -52,13 +52,10 @@
       <a href="#"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black"></a> 
     <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"></a> 
       
-    
   </p>
 
   <h3>🔥 Streak Stats </h3>
-  <div align="center">
-        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=BoineeloMoyo&theme=neon" alt="GitHub Streak" /></a>
-  </div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BoineeloMoyo&theme=neon)](https://git.io/streak-stats)
 
   <h3>💻 GitHub Profile Stats</h3>
   
